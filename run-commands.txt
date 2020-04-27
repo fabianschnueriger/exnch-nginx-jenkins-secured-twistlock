@@ -1,1 +1,1 @@
-docker container run -itd --name exnch-nginx-jenkins-secured-twistlock -p 7778:7778 fabianschnueriger/exnch-nginx-jenkins-secured-twistlock:latest
+docker container run -itd --name exnch-nginx-jenkins-secured-twistlock -p 7778:80 fabianschnueriger/exnch-nginx-jenkins-secured-twistlock:latest
